@@ -1,0 +1,2 @@
+# t_c_gen
+ Introduction A platform that allows users to generate t&c and privacy policy  Project Name t_c_gen  Feature Requests      User: Unauthenticated Visit the platform to view basic information about it View and Interact with the documentation Register to view more details No access to use until registered     User: Authenticated Full access to the platform Allow users enter basic information Generate selected files with the right data and information Allow export, download, share and website embed Allow user save data and come back to download
